@@ -1,2 +1,2 @@
-telegram.ext>=13.11
-telegram>=13.11
+telegram.ext~=13.11
+telegram~=13.11
